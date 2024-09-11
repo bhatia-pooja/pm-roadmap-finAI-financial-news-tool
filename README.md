@@ -32,7 +32,7 @@ Check out the full **[roadmap here](Roadmap.pdf)**.
 
 A thorough competitor analysis was conducted to identify gaps in the market for AI-driven financial insights tools. The analysis compares tools like Finance Wizard, AlphaSense, and Koyfin, highlighting areas where our tool stands out.
 
-Read the full **[competitor analysis](Competitor Analysis.pdf)**.
+Read the full **[competitor analysis](CompetitorAnalysis.pdf)**.
 
 ---
 
@@ -40,7 +40,7 @@ Read the full **[competitor analysis](Competitor Analysis.pdf)**.
 
 A structured user research plan developed to gather insights from potential users through surveys. This will help to validate assumptions and prioritize features for personalization, interactivity, and user experience.
 
-You can view the **[user research plan](user research plan.pdf)**.
+Check out the full **[user research plan](userresearchplan.pdf)**.
 
 ---
 
