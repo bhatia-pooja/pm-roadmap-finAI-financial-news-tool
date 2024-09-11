@@ -14,13 +14,9 @@ The AI Financial Insights Tool leverages advanced natural language processing (N
 
 ---
 
-## 🚀 Product Vision
+## 🚀 Product Vision & Roadmap
 
-The tool is designed to provide users with accurate, timely financial insights, summarizing news and offering predictions to help investors make data-driven decisions. You can read more about the **[product proposal and roadmap](docs/Product_Roadmap.pdf)**.
-
----
-
-## 📅 Product Roadmap
+The tool is designed to provide users with accurate, timely financial insights, summarizing news and offering predictions to help investors make data-driven decisions. You can read more about the 
 
 The roadmap outlines the key milestones for developing the AI Financial Insights Tool:
 1. **Phase 1: MVP (Minimal Viable Product)** - News Aggregation and Summarization
@@ -28,7 +24,7 @@ The roadmap outlines the key milestones for developing the AI Financial Insights
 3. **Phase 3: Personalized Suggestions** - Tailored investment suggestions
 4. **Phase 4: Derivatives Analysis** - Market analysis for options and futures
 
-Check out the full **[roadmap here](docs/Product_Roadmap.pdf)**.
+Check out the full **[roadmap here](Roadmap.pdf)**.
 
 ---
 
@@ -36,7 +32,7 @@ Check out the full **[roadmap here](docs/Product_Roadmap.pdf)**.
 
 A thorough competitor analysis was conducted to identify gaps in the market for AI-driven financial insights tools. The analysis compares tools like Finance Wizard, AlphaSense, and Koyfin, highlighting areas where our tool stands out.
 
-Read the full **[competitor analysis](docs/Competitor_Analysis.pdf)**.
+Read the full **[competitor analysis](Competitor Analysis.pdf)**.
 
 ---
 
@@ -44,7 +40,7 @@ Read the full **[competitor analysis](docs/Competitor_Analysis.pdf)**.
 
 A structured user research plan developed to gather insights from potential users through surveys. This will help to validate assumptions and prioritize features for personalization, interactivity, and user experience.
 
-You can view the **[user research plan](docs/User_Research_Plan.pdf)**.
+You can view the **[user research plan](user research plan.pdf)**.
 
 ---
 
