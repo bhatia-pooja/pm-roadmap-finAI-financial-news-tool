@@ -49,6 +49,7 @@ Check out the full **[user research plan](user_research_plan.pdf)**.
 The design phase involved creating wireframes and mockups for the tool's user interface, focusing on ease of use and functionality. The tool will offer a seamless experience across platforms.
 
 **[Figma Mockup Link](https://www.figma.com/proto/i2Ij4my7gPzO3AgIUVT5HE/FIN-Ai-Mockup?node-id=1-2&node-type=canvas&t=EPVAAFmvq7woSS2d-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)**
+
 **[Optimized Onboarding and UX, Designed on Lovable.dev](https://preview--finai-prototype.lovable.app/onboarding)**
 
 ---
